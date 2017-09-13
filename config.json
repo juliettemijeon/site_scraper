@@ -1,0 +1,11 @@
+{
+    "url" : {
+        "connexion" : "https://www.mon-url.fr"
+    },
+    "credentials" : {
+        "id" : "mon-id",
+        "pass" : "mon-pass"
+    },
+    "email" : "mon-email@gmail.com",
+    "filepath" : ""
+}
